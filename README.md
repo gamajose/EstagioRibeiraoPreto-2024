@@ -20,3 +20,8 @@ Cada desafio está em seu próprio diretório e contém o arquivo com a soluçã
 
 6. Execute o programa em um ambiente JavaScript.
 
+## Contato
+
+Para mais informações ou esclarecimentos, entre em contato conosco pelo email: josegamamoraes@hotmail.com.
+
+Você também pode me encontrar no [LinkedIn](https://www.linkedin.com/in/joseluizgama/).
